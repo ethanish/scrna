@@ -1,0 +1,3 @@
+cellranger mat2csv /data1/home/histidine/project/scrna/cellranger_arc_test/cellranger_arc_test/outs/filtered_feature_bc_matrix sample_10k_pbmc.csv
+cellranger mat2csv /data1/home/histidine/project/scrna/cellranger_arc_test/cellranger_arc_test/outs/raw_feature_bc_matrix sample_10k_pbmc.csv
+
